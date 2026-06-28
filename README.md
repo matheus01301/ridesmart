@@ -51,7 +51,8 @@ ridesmart/
 │   └── projeto_final_ridesmart.html        # Versão renderizada (abre no navegador)
 ├── imagens/                                # Figuras geradas (01 a 07)
 └── docs/
-    └── relatorio.tex                       # Relatório IEEE em LaTeX
+    ├── relatorio.tex                       # Relatório IEEE em LaTeX (fonte)
+    └── ridesmart.pdf                        # Relatório compilado (PDF)
 ```
 
 ## Como Executar
