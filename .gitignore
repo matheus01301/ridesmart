@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+cache/
+.DS_Store
+Thumbs.db
+
+# OSMnx / dados temporários
+data/cache/
+
+# Artefatos de compilação LaTeX (docs/)
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.toc
+*.bbl
+*.blg
